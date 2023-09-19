@@ -7,3 +7,4 @@
 * Introduction to [Swift Playground](https://www.appcoda.com/learnswift/playgrounds.html)
 #### Swift Basics
 * Introduction to [Swift](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/aboutswift/)
+* Basic Swift VS Kotlin [cheat-sheat](https://jakubpchmiel.com/ios-cheat-sheet-for-android-developers/)
